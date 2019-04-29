@@ -4,5 +4,5 @@ https://docs.microsoft.com/fr-fr/previous-versions/office/office-365-api/api/ver
 créer directement plans des manip. Les ajouter sur calendrier outlook
 créer en un click rapports hebdo
 créer templates d'expériences pour une mise en page auto
-alertes et reminders
+alertes et reminders (sous formes de notification p ex (voir comment une web app peut faire notifs))
 intégrer avec elab si c'est poss pour pas concurrencer
