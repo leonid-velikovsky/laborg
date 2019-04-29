@@ -4,3 +4,4 @@ https://docs.microsoft.com/fr-fr/previous-versions/office/office-365-api/api/ver
 créer directement plans des manip. Les ajouter sur calendrier outlook
 créer en un click rapports hebdo
 créer templates d'expériences pour une mise en page auto
+alertes et reminders
