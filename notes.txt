@@ -5,3 +5,4 @@ créer directement plans des manip. Les ajouter sur calendrier outlook
 créer en un click rapports hebdo
 créer templates d'expériences pour une mise en page auto
 alertes et reminders
+intégrer avec elab si c'est poss pour pas concurrencer
